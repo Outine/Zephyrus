@@ -1,0 +1,9 @@
+###HAB TRACKER PROTOTYPE###
+
+Should be compatibile with a LoRa radio in place of the rfm22b. 
+Basic board bringup works, running chibios and comms with the ublox gps. 
+Next is to work on the radio, and interface to the SPI flash chip for datlogging
+
+Unsure if I want to continue using an RTOS or if it is more trouble than it is worth for a semi-basic high altitude ballooning application. 
+
+Board was designed and first sent to fab in early 2015. 
